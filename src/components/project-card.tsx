@@ -57,7 +57,7 @@ export function ProjectCard({
             loop
             muted
             playsInline
-    className="pointer-events-none mx-auto h-40 w-full object-cover object-center"
+    className="pointer-events-none mx-auto h-50 w-full object-cover object-center"
           />
         )}
         {image && (

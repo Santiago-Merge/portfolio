@@ -125,7 +125,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "./immersiveDisplay.MOV",
+        "./immersiveDisplay.mp4",
     },
   ],
   hackathons: [
