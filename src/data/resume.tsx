@@ -10,15 +10,15 @@ export const DATA = {
   description:
     "I am an information engineer with that develops mobile applications using React Native, specialized in creating smooth, secure, and high-performance interfaces",
   summary:
-  "I have contributed to high-impact banking projects, ensuring applications meet the highest standards of security, scalability, and user experience. My work emphasizes code quality, process efficiency, and continuous innovation. \n\n Beyond mobile development, I bring experience with Python for data processing and automation, as well as OpenCV for computer vision tasks, including image transformations and warping. This versatility strengthens my problem-solving skills and allows me to adapt to diverse technical challenges, adding value across multiple areas of software development.",
+    "I have contributed to high-impact banking projects, ensuring applications meet the highest standards of security, scalability, and user experience. My work emphasizes code quality, process efficiency, and continuous innovation. \n\n Beyond mobile development, I bring experience with Python for data processing and automation, as well as OpenCV for computer vision tasks, including image transformations and warping. This versatility strengthens my problem-solving skills and allows me to adapt to diverse technical challenges, adding value across multiple areas of software development.",
 
   avatarUrl: "/me.heic",
   skills: [
     "React Native",
     "JavaScript",
-    "TypeScript", 
+    "TypeScript",
     "Python",
-    "OpenCV", 
+    "OpenCV",
     "Streamlit",
     "Firebase"
   ],
@@ -90,9 +90,9 @@ export const DATA = {
       start: "March 2025",
       end: "Present",
       description:
-        "Contributed to the development and maintenance of a banking application serving four subsidiaries across different countries. Responsibilities included managing builds, fixing critical issues, and developing new sections to expand the app’s functionality. Additionally, implemented RASP mobile security to strengthen protection against threats such as rooting, tampering, and reverse engineering, ensuring compliance with financial security standards.",
+        "Contributed to the development and maintenance of a banking application. Responsibilities included managing builds, fixing critical issues, and developing new sections to expand the app’s functionality.",
     },
-   
+
   ],
   education: [
     {
